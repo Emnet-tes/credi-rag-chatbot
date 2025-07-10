@@ -1,0 +1,13 @@
+# Python venv
+venv/
+__pycache__/
+
+# Data
+data/
+*.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
